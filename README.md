@@ -8,7 +8,7 @@ Preview audio metadata and cover on [Yazi](https://github.com/sxyazi/yazi).
 
 ```sh
 # Automatically with yazi 0.3.0
-ya pack -a "Sonico98/exifaudio"
+ya pkg add "Sonico98/exifaudio"
 
 # Or manually under:
 # Linux/macOS
